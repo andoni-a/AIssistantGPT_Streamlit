@@ -1,7 +1,8 @@
     
 # Streamlit AIssistant
 
-![StreamlitAPP](https://github.com/andoni-a/AIssistantGPT_Streamlit/assets/148989111/b0f23e24-4864-4704-be8c-ed106bfdc726)
+
+![StreamlitAPP](https://github.com/andoni-a/AIssistantGPT_Streamlit/assets/148989111/c531cedc-4991-410b-b4d7-3f3c3add46d6)
 
 
 ## Description 
